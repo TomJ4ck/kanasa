@@ -1,0 +1,2 @@
+# kanasa
+salary
