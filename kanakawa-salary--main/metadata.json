@@ -1,0 +1,5 @@
+{
+  "name": "Kanagawa 2025 Social Insurance Calculator",
+  "description": "Calculates Health Insurance, Welfare Pension, and estimated take-home pay based on the 2025 Kanagawa Prefecture Premium Table.",
+  "requestFramePermissions": []
+}
